@@ -99,19 +99,3 @@ std::vector<token> Parser::getSyntaxRegEx()
 
 	return syntaxRx;
 }
-
-/*
-std::tr1::match_results<const char *> name;
-if (std::tr1::regex_search(syntaxRx[i].rx.c_str(), name, rxN))
-{
-int stop = 9;
-}
-*/
-
-
-/*for (int i = 0; i < syntaxRx.size(); ++i)
-{
-std::cout << syntaxRx[i].name << " == " << syntaxRx[i].rx << "\n";
-}*/
-
-//std::cout << "syntaxRx[0].rx --> " << syntaxRx[0].rx << "\n";

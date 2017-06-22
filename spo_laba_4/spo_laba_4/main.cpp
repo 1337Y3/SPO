@@ -44,30 +44,8 @@ int main()
 	{
 		std::cout << "\nЋексер вы€вил ошибку.\n";
 	}
-
 	
-	//interpreter.get_reverse_polish_notation(tokens);
-
-	//std::cout << "\n";
-	//for (int i = 0; i < rpn.size(); ++i)
-	//{
-	//	//std::cout << std::left << std::setw(3) << i + 1 << rpn[i] << "\n";
-	//}
-
-
-	
-
 	std::cout << "\n";
 	system("pause");
 	return 0;
 }
-
-
-
-
-
-/*std::cout << "\n\n–езультат работы лексера:\n\n";
-for (int i = 0; i < tokens.size(); ++i)
-{
-std::cout << std::left << std::setw(18) << tokens[i].name << " " << tokens[i].value << "\n";
-}*/

@@ -1,12 +1,1 @@
-﻿  parser.cpp
-parser.cpp(6): warning C4018: <: несоответствие типов со знаком и без знака
-parser.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
-parser.cpp(86): warning C4018: <: несоответствие типов со знаком и без знака
-parser.cpp(88): warning C4018: <: несоответствие типов со знаком и без знака
-  Создание кода
-  2 of 1709 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    7 functions had inline decision re-evaluated but remain unchanged
-  Создание кода завершено
-  spo_laba_4.vcxproj -> C:\Users\sterb\Desktop\6 семестр\СПО\пр4\spo_laba_4\Release\spo_laba_4.exe
-  spo_laba_4.vcxproj -> C:\Users\sterb\Desktop\6 семестр\СПО\пр4\spo_laba_4\Release\spo_laba_4.pdb (Full PDB)
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141\Toolset.targets(34,5): error MSB8036: не удалось найти Windows SDK версии 8.1. Установите нужную версию Windows SDK или измените версию SDK на страницах свойств проекта либо щелкнув правой кнопкой мыши решение и выбрав "Изменить целевую платформу решения".
