@@ -1,0 +1,18 @@
+true = 1;
+false = 0;
+if (true)
+{
+	x = 2;
+}
+if (false)
+{
+	y = 4;
+}
+if (true != false)
+{
+	z = 12;
+}
+if (true == false)
+{
+	z = 14;
+}

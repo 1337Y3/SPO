@@ -1,0 +1,8 @@
+﻿  parser.cpp
+c:\users\sterb\desktop\6 семестр\спо\пр4\spo_laba_4\spo_laba_4\parser.cpp(6): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sterb\desktop\6 семестр\спо\пр4\spo_laba_4\spo_laba_4\parser.cpp(17): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sterb\desktop\6 семестр\спо\пр4\spo_laba_4\spo_laba_4\parser.cpp(25): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sterb\desktop\6 семестр\спо\пр4\spo_laba_4\spo_laba_4\parser.cpp(86): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sterb\desktop\6 семестр\спо\пр4\spo_laba_4\spo_laba_4\parser.cpp(88): warning C4018: <: несоответствие типов со знаком и без знака
+  spo_laba_4.vcxproj -> C:\Users\sterb\Desktop\6 семестр\СПО\пр4\spo_laba_4\Debug\spo_laba_4.exe
+  spo_laba_4.vcxproj -> C:\Users\sterb\Desktop\6 семестр\СПО\пр4\spo_laba_4\Debug\spo_laba_4.pdb (Full PDB)
